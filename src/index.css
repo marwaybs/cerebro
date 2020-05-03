@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.ui.container.new-to-do-container > *, .ui.container.to-do-list-container > * {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.ui.container.to-do-item-container > * {
+  margin-right: 10px;
+}
+
