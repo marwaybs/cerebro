@@ -10,8 +10,7 @@
     "parcel",
     "react"
   ],
-  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
-  "license": "MIT",
+  "author": "Bhaag Marway",
   "dependencies": {
     "@babel/runtime": "^7.9.6",
     "dotenv": "^8.2.0",
